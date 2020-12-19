@@ -1,0 +1,8 @@
+site_name: "grpc"
+site_description: "dsjinfds"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
